@@ -23,8 +23,8 @@ This combination is great for projects like interactive blogs, simple dashboards
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/AgungBahtiarr/ahx-stack.git
+cd ahx-stack
 ```
 
 ### 2. Install Dependencies with Bun
